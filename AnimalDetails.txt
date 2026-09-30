@@ -1,0 +1,2 @@
+Dog,clifford,2,red,100,5
+Bird,tweety,1,blue,3,3

@@ -1,0 +1,6 @@
+Belfast Zoo Report
+Total Number of Animal(s): 2
+Total number of dog(s): 1
+Total number of bird(s): 1
+Total number of monkey(s): 0
+Zoo's most dominant colour: red
